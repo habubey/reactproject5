@@ -1,0 +1,20 @@
+.detailsWrapper {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 3px;
+  }
+  
+  .detailsImage {
+    width: 25%;
+  }
+  
+  .detailsNav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .detailsNavIcon {
+    cursor: pointer;
+  }

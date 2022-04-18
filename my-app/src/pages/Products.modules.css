@@ -1,0 +1,21 @@
+
+   
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
+.product {
+  width: 300px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: black;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+}
